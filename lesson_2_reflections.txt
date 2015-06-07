@@ -12,3 +12,7 @@ gives you manouvring ability and can try out diffrenet stuff easly. I will move 
 
 How do the diagrams help you visualize the branch structure?
 Helps you see all the diffrneet features and branches you made.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+makes 1 branch combining both of the progress we made in each branch.
+we represent them in the diagram to make it easier to understand where they each came from.
